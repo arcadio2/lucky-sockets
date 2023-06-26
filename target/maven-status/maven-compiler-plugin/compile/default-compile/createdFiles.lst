@@ -1,0 +1,5 @@
+com\bolsadeideas\springboot\backend\chat\WebSocketConfig.class
+com\bolsadeideas\springboot\backend\chat\models\documents\Cliente.class
+com\bolsadeideas\springboot\backend\chat\SpringBootBackendChatApplication.class
+com\bolsadeideas\springboot\backend\chat\models\dao\ChatRepository.class
+com\bolsadeideas\springboot\backend\chat\controllers\ChatController.class

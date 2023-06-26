@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: arcad
+Build-Jdk: 17.0.2
+Implementation-Title: spring-boot-backend-chat
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bolsadeideas.springboot.backend.chat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-backend-chat
+Created-By: Maven Integration for Eclipse
+
